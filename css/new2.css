@@ -1,0 +1,62 @@
+body{
+}
+header{
+	background-color:red;
+	margin:auto;
+	padding:10px;
+	
+	}
+header h1{
+	color:white;
+	width:100%;
+	margin:10px;
+	text-align:center;
+	font-size:50px;
+}
+nav {
+	overflow:hidden;
+	background-color:blue;
+	padding:10px;
+}
+
+nav ul li{
+	list-style:none;
+	float:left;
+	margin:0px 100px 0px 0px;
+	color:white;
+}
+nav ul li a{
+	text-decoration: none;
+	overflow: hidden;	
+	color: white;
+}
+nav ul li a:hover{
+	text-decoration:underline;
+}s
+	
+section {
+	background-color:white;
+	margin:auto;
+	padding:5px;
+	
+}
+nav2{
+	float:right;
+	border:2px black solid;
+	margin:5px;
+	padding:5px;
+	width:20%;
+	}	
+
+footer
+{
+	overflow:hidden;
+	background-color:grey;
+	color:white;
+	
+	margin:auto;
+	text-align:center;
+	padding:10px;
+	}
+	
+	
